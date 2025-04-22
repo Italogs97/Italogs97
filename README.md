@@ -24,8 +24,7 @@ Estou em busca de uma oportunidade como Desenvolvedor Java Junior, onde possa ap
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://www.linkedin.com/in/italo-gomes-01b00021b/) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/italo-gomes-01b00021b/) 
 ### 📊 Estatísticas GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Italogs97&show_icons=true&theme=radical) 
