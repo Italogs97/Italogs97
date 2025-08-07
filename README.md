@@ -1,12 +1,12 @@
 # Olá, eu sou o Italo Gomes! 👋
 
-## 💻 Desenvolvedor Java em formação
+## 💻 Desenvolvedor em formação
 
 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e em transição para a área de desenvolvimento. Busco aplicar minha paixão por novas tecnologias no desenvolvimento de software.
 
 ### 🚀 Minhas habilidades
 
-- **Linguagens:** Java, HTML, CSS
+- **Linguagens:** Java, HTML, CSS , C#
 - **Conceitos:** Programação Orientada a Objetos, Estruturas de Dados
 - **Ferramentas:** Git, GitHub, VS Code
 - **Soft Skills:** Resolução de problemas, trabalho em equipe, aprendizado contínuo
@@ -15,12 +15,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e
 
 Estou em busca de uma oportunidade como Desenvolvedor Java Junior, onde possa aplicar meus conhecimentos e continuar aprendendo em um ambiente desafiador e colaborativo.
 
-### 📚 Atualmente estudando
-
-- Java 8+ (Expressões Lambda, Stream API)
-- Spring Boot
-- Bancos de dados relacionais
-- APIs RESTful
 
 ### 📫 Como me encontrar
 
