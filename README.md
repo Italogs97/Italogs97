@@ -13,7 +13,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e
 
 ### 🎯 Objetivos
 
-Estou em busca de uma oportunidade como Desenvolvedor Java Junior, onde possa aplicar meus conhecimentos e continuar aprendendo em um ambiente desafiador e colaborativo.
+Estou em busca de uma oportunidade como Desenvolvedor Junior, onde possa aplicar meus conhecimentos e continuar aprendendo em um ambiente desafiador e colaborativo.
 
 
 ### 📫 Como me encontrar
